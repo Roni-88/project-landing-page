@@ -9,4 +9,4 @@ Ele foi feito de forma responsiva, adequando seu tamanho de forma a atender tela
 - HTML
 - CSS
 
-[<img src="./landing.gif" alt="gif da tela do projeto">]
+[<img src="./landing.gif" alt="gif da tela do projeto">](https://github.com/Roni-88)
